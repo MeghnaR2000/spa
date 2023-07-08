@@ -1,0 +1,44 @@
+{
+  "appointment": [
+    {
+      "name": "Shibam Basak",
+      "email": "shibambasak2013@gmail.com",
+      "phone": "+918972587906",
+      "spa": "indian",
+      "time": "11:37pm",
+      "date": "11/12/2023",
+      "message": "bhhhg",
+      "id": 2
+    },
+    {
+      "name": "Akash Roy",
+      "email": "meghnar@gmail.com",
+      "phone": "7980346123",
+      "spa": "yggbmb",
+      "time": "12:15",
+      "date": "2023-06-23",
+      "message": "dfcgfhftrtcc",
+      "id": 4
+    },
+    {
+      "name": "Meghna Roy",
+      "email": "meghnar@gmail.com",
+      "phone": "7980346123",
+      "spa": "yggbmb",
+      "time": "23:13",
+      "date": "2023-06-30",
+      "message": "dedjwehd",
+      "id": 5
+    },
+    {
+      "name": "Supriti Gole",
+      "email": "supg.1997@gamil.com",
+      "phone": "7980523049",
+      "spa": "Day spa",
+      "time": "14:23",
+      "date": "2023-06-21",
+      "message": "qwert",
+      "id": 7
+    }
+  ]
+}
